@@ -20,7 +20,7 @@ Gian Karl C. Minglana
 <img width="2112" height="1632" alt="Image" src="https://github.com/user-attachments/assets/9e9aac6c-b38f-4703-a68e-31be51f41dfd" />
 
 **- SQL and Relational Databases 101**
-Authenticity of Certificate: https://courses.cognitiveclass.ai/certificates/df8ddf3abfc440d58514e265c8ab0f1b
+- Authenticity of Certificate: https://courses.cognitiveclass.ai/certificates/df8ddf3abfc440d58514e265c8ab0f1b
 
 <img width="933" height="570" alt="Image" src="https://github.com/user-attachments/assets/8e262819-e489-491e-abc1-c1b01659a334" />
 
