@@ -27,4 +27,4 @@ Gian Karl C. Minglana
 ## **Skillsets**
 - Programming Languages: Java, HTML, CSS
 - Tools: IntelliJ IDEA, Eclipse IDE, Visual Studio Code
-- Soft Skills: Teamwork, Active Listening, Emotional Intelligence
+- Soft Skills: Teamwork, Active Listening
