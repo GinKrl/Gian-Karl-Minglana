@@ -4,8 +4,8 @@
 Gian Karl C. Minglana
 
 ## **Education**
-**- 2nd Year Bachelor of Science in Information Technology**
-New Era University
+**- 2nd Year Bachelor of Science in Information Technology**  
+New Era University  
 2024-Present
 
 ## **Certifications**
