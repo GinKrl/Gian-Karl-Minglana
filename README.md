@@ -30,3 +30,6 @@ Welcome to my GitHub profile! I am a BS Information Technology student. I enjoy 
 - Programming Languages: Java, HTML, CSS
 - Databases: IBM DB2 Cloud
 - Tools: IntelliJ IDEA, Eclipse IDE, Visual Studio Code, Lucidchart
+
+## **Let's Connect!**
+ - Email: ginkrlming@gmail.com
